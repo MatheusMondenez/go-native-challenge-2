@@ -4,8 +4,6 @@ Crie uma aplicação do zero e configura as ferramentas: ESLint, Reactotron, Bab
 
 O app permitirá ao usuário inserir o nome de um repositório existente que será exibido na lista da primeira tela e clicando sobre os repositórios, poderá listar as issues pertencentes ao mesmo, além disso pode filtrar entre issues Abertas, fechadas ou todas.
 
-![Telas](/assets/screens.png)
-
 ## Regras
 
 - O input de adicionar repositório deve receber a informação da seguinte forma: organização/repositório (Exemplo: “rocketseat/comunidade”);
