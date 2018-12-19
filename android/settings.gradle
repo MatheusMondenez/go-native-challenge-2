@@ -1,0 +1,3 @@
+rootProject.name = 'goNativeChallenge2'
+
+include ':app'
